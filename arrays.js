@@ -1,4 +1,4 @@
-let chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
+var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 
 //return new array and not modify orig
 function addElementToBeginningOfArray(array, element){
